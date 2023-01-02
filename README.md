@@ -19,9 +19,10 @@ I really got myself in competitive programming, and I want to learn more about i
 Additionally, I'm going to be learning a lot of other things, including:
 
 - **Low-Level Development** (I have a lot of saved guides and books on making my own Operating System and Compiler that I want to try to tackle at some point.)
-- **Data structures and algorithms** (I want to do at least one LeetCode problem a week, but want to try and achieve one LeetCode problem a day. I will be using a collection of books and guides I have saved to learn.)
+- **Data structures and Algorithms** (I want to do at least one LeetCode problem a week, but want to try and achieve one LeetCode problem a day. I will be using a collection of books and guides I have saved to learn.)
 - **Hardware** (I really want to build a custom macropad/stream deck, and also help build a microphone.)
 - **Blogging** (I want to make at least one blog post a month, hopefully a lot more.)
+- **Daily Problems** (Advent of Code, Tiny Code Christmas, Daily Coding Problem, etc. I want to see how many I can complete by the end of the year.)
 - And a lot more!
 
 ## What will you do when 2024 comes around?
