@@ -1,8 +1,10 @@
 # One Year of Hacking with Hack Club
 
-👋 Hey there! I'm [Peter](https://cytronicoder.com) and I'm a 14 year old student developer in Singapore. I've built [a](https://github.com/cytronicoder/singapore-taxified) [lot](https://github.com/cytronicoder/butterfly-classification) [of](https://github.com/redocinortyC/samcoin) [things](https://github.com/cytronicoder/connect-four) in the past year, but I've never really documented my journey, what I've learned, and what I've built. So, I'm going to do that here.
+Forked from [@cytronicoder](https://github.com/cytronicoder/one-year-of-hacking)
 
-This is a collection of all the things I've (or will!) learn and build in the next year. I'll be updating this README every week with what I've learned and what I've built. I'll also be posting updates on my [Twitter](https://twitter.com/cytronicoder) and [Instagram](https://instagram.com/cytronicoder).
+👋 Hey there! I'm [Kai](https://devrim.tech) and I'm a 17 year old student developer in California. I've built [a](https://github.com/KaiDevrim/XKCD.Net) [lot](https://github.com/devrimtech/devrim.tech) [of](https://github.com/KaiDevrim/Reproductive) [things](https://github.com/KaiDevrim/StarItAllWeb) in the past year, but I've never really documented my journey, what I've learned, and what I've built. So, I'm going to do that here.
+
+This is a collection of all the things I've (or will!) learn and build in the next year. I'll be updating this README every week with what I've learned and what I've built. I'll also be posting updates on my [Twitter](https://twitter.com/devrimkai) and on my [Scrapbook](https://scrapbook.hackclub.com/kaidevrim).
 
 ## Why?
 
@@ -12,14 +14,14 @@ I've been coding for a while now, but I've never really documented my journey. I
 
 tl;dr: I'm going to learn to code, and build a bunch of things.
 
-I really got myself in artificial intelligence, and I want to learn more about it over the next year along with a ton of mathematics. I'm also going to make my first [Sprig](https://sprig.hackclub.com) game.
+I really got myself in competitive programming, and I want to learn more about it over the next year along with a ton of C#. I'm also going to make my first [Sprig](https://sprig.hackclub.com) game.
 
 Additionally, I'm going to be learning a lot of other things, including:
 
-- **Calculus** (I'm going to be taking AP Calculus BC in May, so I want to get a head start)
-- **Data structures and algorithms** (Trying to get into USACO's platinum division)
-- **Hardware** (I really want to build a gaming controller for my future Sprig board)
-- **Machine learning** (how neural networks work, the mathematics behind it, and etc.)
+- **Low-Level Development** (I have a lot of saved guides and books on making my own Operating System and Compiler that I want to try to tackle at some point.)
+- **Data structures and algorithms** (I want to do at least one LeetCode problem a week, but want to try and achieve one LeetCode problem a day. I will be using a collection of books and guides I have saved to learn.)
+- **Hardware** (I really want to build a custom macropad/stream deck, and also help build a microphone.)
+- **Blogging** (I want to make at least one blog post a month, hopefully a lot more.)
 - And a lot more!
 
 ## What will you do when 2024 comes around?
